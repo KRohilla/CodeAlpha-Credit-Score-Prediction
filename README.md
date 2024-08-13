@@ -9,6 +9,7 @@ Credit Scoring Prediction Using Machine Learning Model
 Credit Score having 3 categories are --> Standard, Good, Poor
 <br>
 Using many different feactures are:-
+<br>
 1. Annual Income
 <br>
 2. Interest Rate
